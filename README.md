@@ -1,8 +1,7 @@
 # SpringStudy
 Spring源码学习
 
-version1.0 模拟实现Spring启动过程
-- 模拟使用Anotation实现的启动过程(无XML解析过程）
+version1.0 模拟实现Spring启动过程,使用Anotation实现的启动过程(无XML解析过程）
 - 实现Spring包扫描过程
 - 模拟实现SpringBean的依赖注入
    - SpringBean生命周期
